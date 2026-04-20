@@ -1,8 +1,8 @@
 # Web3 CLI Tools ⚙️
 
-A collection of simple command-line tools for interacting with blockchain networks using curl and JSON-RPC. 
+A collection of simple command-line tools for interacting with blockchain networks using curl and JSON-RPC.
 
-This project demonstrates how to interact with Ethereum nodes without heavy frameworks. 
+This project demonstrates how to interact with Ethereum nodes without heavy frameworks.
 
 ---
 
@@ -10,7 +10,7 @@ This project demonstrates how to interact with Ethereum nodes without heavy fram
  
 * Check wallet balance.
 * Get latest block number.
-* Fetch gas price..
+* Fetch gas price.
 * Simple CLI-based interaction.
 
 ---
