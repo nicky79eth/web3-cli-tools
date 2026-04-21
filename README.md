@@ -10,8 +10,8 @@ This project demonstrates how to interact with Ethereum nodes without heavy fram
  
 * Check wallet balance..
 * Get latest block number..
-* Fetch gas price.
-* Simple CLI-based interaction.
+* Fetch gas price..
+* Simple CLI-based interaction..
 
 ---
 
